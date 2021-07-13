@@ -1,5 +1,5 @@
 
-# I love making useful things out of information technology. 
+# I love making useful things out of information technology
 
 I have a software engineering background, worked as a programmer for a few years and then went on to lead software development teams for a living. More details, [here](https://www.linkedin.com/in/josephhigaki/)
 
