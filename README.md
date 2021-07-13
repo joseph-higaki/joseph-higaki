@@ -1,7 +1,7 @@
 
 # I love making useful things out of information technology. 
 
-I have a software engineering background, worked as a programmer for a few years and then went on to lead software developement teams for a living. More details, [here](https://www.linkedin.com/in/josephhigaki/)
+I have a software engineering background, worked as a programmer for a few years and then went on to lead software development teams for a living. More details, [here](https://www.linkedin.com/in/josephhigaki/)
 
 I'm old enough to remember the days where rewinding was a pre-requisite of playing, and you could do that with a pencil.
 
