@@ -5,7 +5,7 @@ I have a software engineering background, worked as a programmer for a few years
 
 I'm old enough to remember the days where rewinding was a pre-requisite of playing, and you could do that with a pencil.
 
-<img src="https://user-images.githubusercontent.com/11904085/125531621-6d55372e-bd41-4e17-9e87-e0b92a1b5a7a.png" width="300">
+<img src="https://user-images.githubusercontent.com/11904085/125537627-10525f1c-0a7c-491a-adf9-aadb782c1a57.png" width="280">
 
 Also, once upon the time, we used to go to libraries, and borrow books to get an understanding of foundational concepts. Now we google-them, and while a lack of data is no longer a problem, a much larger problem we have nowadays is data overload.
 We have so much data that we need tools to make sense out of it.
