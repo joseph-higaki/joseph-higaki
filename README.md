@@ -33,7 +33,7 @@ That's right!  **YOU**, get an insight! **YOU, get an insight!**
 <img src="https://user-images.githubusercontent.com/11904085/125492457-348ecbaf-c5e8-4f29-a16e-833b5c468197.png" width="180">
 </span>
 
-## Because **caffeine*** needs **dopamine** and **adrenaline** to produce **eurekas!**
+## Because **caffeine** needs **dopamine** and **adrenaline** to produce **eurekas!**
 
 <span>
 <img src="https://user-images.githubusercontent.com/11904085/125481452-46bf9ebd-2d43-40bc-95fc-1647ba9f7195.png" width="130" alt="caffeine"> 
