@@ -1,37 +1,39 @@
 
 # I love making useful things out of information technology. 
 
-I have a software engineering background, worked on that for a few years and then went on to lead software developement teams for a living. More details, [here](https://www.linkedin.com/in/josephhigaki/)
+I have a software engineering background, worked as a programmer for a few years and then went on to lead software developement teams for a living. More details, [here](https://www.linkedin.com/in/josephhigaki/)
 
 I'm old enough to remember the days where rewinding was a pre-requisite of playing, and you could do that with a pencil.
 
-Once upon the time, we used to go to libraries, and borrow books to get an understanding of foundational concepts. Now we google-them, and while a lack of data is no longer a problem, a much larger problem we have nowadays is data overload.
+Also, once upon the time, we used to go to libraries, and borrow books to get an understanding of foundational concepts. Now we google-them, and while a lack of data is no longer a problem, a much larger problem we have nowadays is data overload.
 We have so much data that we need tools to make sense out of it.
 
-Recently I got my first scuba-data-diving license to get you all: 
+## Recently I got my first scuba-data-diving license to get you all: **DATA INSIGHTS**
 
-**DATA INSIGHTS**.
+That's right!  **YOU**, get an insight! **YOU, get an insight!**
 
-That's right! YOU get an insight! YOU get an insight!
 **EVERYBODY GETS AN INSIGHT!!**
 
 <img src="https://user-images.githubusercontent.com/11904085/125473540-bedf6f82-cbad-4050-9a5c-b10762df2d2e.png" width="180">
  
 <!-- I promise you one thing, my joke skills aren't directly proportional to my data ones.-->
 
-Besides the pinned repos, I will highlight here the latest and greatest {anything} I have been playing with.
-
-Current Highlight: 
 
 
-When I'm not riding data, you can find me riding other things
+## Current Highlight: 
+**[Predicting song popularity using machine learning](https://github.com/joseph-higaki/music-hit-general)**
+
+<img src="https://user-images.githubusercontent.com/11904085/125500268-e2c228e7-11fe-4264-93e6-4ee746c8d7d4.png" width="380">
+
+
+## When I'm not riding data, you can find me riding other things
 
 <span>
 <img src="https://user-images.githubusercontent.com/11904085/125492432-13c8c11c-c989-432e-a289-411a9f557d80.png" width="212">
 <img src="https://user-images.githubusercontent.com/11904085/125492457-348ecbaf-c5e8-4f29-a16e-833b5c468197.png" width="180">
 </span>
 
-Because caffeine needs dopamine and adrenaline to produce eurekas! 
+## Because **caffeine*** needs **dopamine** and **adrenaline** to produce **eurekas!**
 
 <span>
 <img src="https://user-images.githubusercontent.com/11904085/125481452-46bf9ebd-2d43-40bc-95fc-1647ba9f7195.png" width="130" alt="caffeine"> 
