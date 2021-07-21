@@ -23,7 +23,7 @@ That's right!  **YOU**, get an insight! **YOU, get an insight!**
 
 
 
-## Portfolio Highlights: 
+## Highlights: 
 **[Predicting song popularity using machine learning](https://github.com/joseph-higaki/music-hit-general)**
 
 <span>
