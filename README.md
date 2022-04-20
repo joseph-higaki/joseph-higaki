@@ -3,6 +3,8 @@
 
 I have a software engineering background, worked as a programmer for a few years and then went on to lead software development teams for a living. More details, [here](https://www.linkedin.com/in/josephhigaki/)
 
+**[TLDR;](#project-highlights)**
+
 I'm old enough to remember the days where rewinding was a pre-requisite of playing, and you could do that with a pencil.
 
 <img src="https://user-images.githubusercontent.com/11904085/125537627-10525f1c-0a7c-491a-adf9-aadb782c1a57.png" width="280">
@@ -19,16 +21,25 @@ That's right!  **YOU**, get an insight! **YOU, get an insight!**
 
 <img src="https://user-images.githubusercontent.com/11904085/125473540-bedf6f82-cbad-4050-9a5c-b10762df2d2e.png" width="300">
 <sub><sup>* thats right, COVID times are over </sup></sub>
-<!-- I promise you one thing, my joke skills aren't directly proportional to my data ones.-->
 
-
-
-## Highlights: 
+## Project Highlights: 
 **[Predicting song popularity using machine learning](https://github.com/joseph-higaki/music-hit-general)**
 
 <span>
 <img src="https://user-images.githubusercontent.com/11904085/125500268-e2c228e7-11fe-4264-93e6-4ee746c8d7d4.png" width="395">
 <img src="https://user-images.githubusercontent.com/11904085/125500214-e5027bcf-d08c-438b-89ca-0262700ca21a.png" width="300">
+</span>
+
+**[Visualizing influencer tweets vs ticker prices](https://github.com/joseph-higaki/asset-ticker-vs-tweets)**
+
+<span>
+<img src="https://user-images.githubusercontent.com/11904085/164216294-99eaa21b-4340-4e56-876b-f69197cab5df.png" width="450">
+</span>
+
+**[Understanding my spotify streaming habits](https://gist.github.com/joseph-higaki/f93973b29737e6d3f812ab119e4f8870)**
+
+<span>
+<img src="https://camo.githubusercontent.com/b5a54067e83ed23d4062963a09d7f914c3cd0cf21404e38e5aae8dea43fa68ed/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f31313930343038352f3132383237303733312d63386262333133662d333161622d343539322d383531302d3930663635373161653138662e706e67">
 </span>
 
 ## When I'm not riding data, you can find me riding other things
