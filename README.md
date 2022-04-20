@@ -11,14 +11,14 @@ Also, around that time we used to go to libraries and borrow books to get an und
 
 **We have so much data that we need tools to make sense out of it.**
 
-## Recently I got my first scuba-data-diving license to get you all: **DATA INSIGHTS**
+## During COVID times* I got my first scuba-data-diving license to get you all: **DATA INSIGHTS**
 
 That's right!  **YOU**, get an insight! **YOU, get an insight!**
 
 **EVERYBODY GETS AN INSIGHT!!**
 
 <img src="https://user-images.githubusercontent.com/11904085/125473540-bedf6f82-cbad-4050-9a5c-b10762df2d2e.png" width="300">
- 
+<sub><sup>* thats right, COVID times are over </sup></sub>
 <!-- I promise you one thing, my joke skills aren't directly proportional to my data ones.-->
 
 
