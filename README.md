@@ -17,19 +17,20 @@ I bring over a decade of experience leading software development projects across
 Public repos from data engineering self-driven projects and courses.
 
 ### 🔥 Recent Projects
-- **[Spotify Insights](https://github.com/yourusername/spotify_insights):**  
+
+- **[Spotify Insights](https://github.com/joseph-higaki/spotify_insights):**  
   Explore data insights inspired by Spotify Wrapped using Jupyter Notebook.
 
-- **[Patient Conditions and Weather](https://github.com/yourusername/patient_conditions_weather):**  
+- **[Patient Conditions and Weather](https://github.com/joseph-higaki/patient_conditions_weather):**  
   A data extraction and analysis project connecting weather patterns to patient conditions using synthetic data.
 
-- **[Data Engineering Zoomcamp](https://github.com/yourusername/datadata-engineering-zoomcamp):**  
+- **[Data Engineering Zoomcamp](https://github.com/joseph-higaki/datadata-engineering-zoomcamp):**  
   Homework and notes from the comprehensive [DataTalks.Club](https://datatalks.club/) Data Engineering Zoomcamp.
 
-- **[Voice Analysis](https://github.com/yourusername/voice-analysis):**  
+- **[Voice Analysis](https://github.com/joseph-higaki/voice-analysis):**  
   Playful exploration of voice data (pitch / amplitude) inspired by a voice education course where I recorded myself and some classmates.
   
-- **[Chrome Tab Group Remover](https://github.com/yourusername/chrome-tab-group-remover):**  
+- **[Chrome Tab Group Remover](https://github.com/joseph-higaki/chrome-tab-group-remover):**  
   Automates the tedious task of deleting unwanted Chrome tab groups using Python, this is me being: [lazy | engineer].
 
 
