@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Joseph Higaki
 
-**Software Engineering Manager | Data Delivery Manager | Data Enthusiast**
+**Software Engineering Manager | Data Delivery Manager | Data Engineering Enthusiast**
 
 Welcome to my GitHub! 
 
