@@ -2,7 +2,9 @@
 
 **Software Engineering Manager | Data Delivery Manager | Data Enthusiast**
 
-Welcome to my GitHub! I bring over a decade of experience leading software development projects across diverse industries like IT services, digital banking, and investment management. I enjoy bridging technology and business value through project leadership, data analytics, and modern engineering practices. 
+Welcome to my GitHub! 
+
+I bring over a decade of experience leading software development projects across diverse industries like IT services, digital banking, and investment management. I enjoy bridging technology and business value through project leadership, data analytics, and modern engineering practices. 
 
 ## 🚀 Professional Highlights
 
