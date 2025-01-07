@@ -2,7 +2,7 @@
 
 **Software Engineering Manager | Data Delivery Manager | Data Enthusiast**
 
-Welcome to my GitHub! I bring over a decade of experience leading software development projects across diverse industries like IT services, digital banking, and investment management. My passion lies in bridging technology and business value through project leadership, data analytics, and modern engineering practices.
+Welcome to my GitHub! I bring over a decade of experience leading software development projects across diverse industries like IT services, digital banking, and investment management. I enjoy bridging technology and business value through project leadership, data analytics, and modern engineering practices. 
 
 ## 🚀 Professional Highlights
 
@@ -24,11 +24,13 @@ Public repos from data engineering self-driven projects and courses.
 - **[Data Engineering Zoomcamp](https://github.com/yourusername/datadata-engineering-zoomcamp):**  
   Homework and notes from the comprehensive [DataTalks.Club](https://datatalks.club/) Data Engineering Zoomcamp.
 
-- **[Chrome Tab Group Remover](https://github.com/yourusername/chrome-tab-group-remover):**  
-  Automates the tedious task of deleting unwanted Chrome tab groups using Python.
-
 - **[Voice Analysis](https://github.com/yourusername/voice-analysis):**  
   Playful exploration of voice data (pitch / amplitude) inspired by a voice education course where I recorded myself and some classmates.
+  
+- **[Chrome Tab Group Remover](https://github.com/yourusername/chrome-tab-group-remover):**  
+  Automates the tedious task of deleting unwanted Chrome tab groups using Python, this is me being: [lazy | engineer].
+
+
 
 ### 🛠 Tools & Technologies
 
