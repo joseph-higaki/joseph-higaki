@@ -38,7 +38,7 @@ Public repos from data engineering self-driven projects and courses.
 ### 🛠 Tools & Technologies
 
 - **Programming Languages:** Python, SQL
-- **Tools / Tech Stacks:** dbt, docker, Power BI, AWS, GCP, 
+- **Tools / Tech Stacks:** airflow, dbt, docker, Power BI, AWS, GCP, 
 - **Project Management:** Jira, Confluence, Miro  
 - **Certifications:** AWS Cloud Practitioner, Azure Data Fundamentals, Certified Agile Leadership I  
 
