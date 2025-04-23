@@ -18,6 +18,9 @@ Public repos from data engineering self-driven projects and courses.
 
 ### 🔥 Recent Projects
 
+- **[Electronic Medical Records data pipeline](https://github.com/joseph-higaki/emr_data_pipeline):**  
+  Electronic Medical Records Ingestion, Analytics features and Dashboard.
+  
 - **[Spotify Insights](https://github.com/joseph-higaki/spotify_insights):**  
   Explore data insights inspired by Spotify Wrapped using Jupyter Notebook.
 
