@@ -1,10 +1,10 @@
 # 👨🏾‍💻 Joseph Higaki
 
-**Software Engineering Manager | Data Delivery Manager | Data Engineering Enthusiast**
+**Data Engineering Enthusiast**
 
 Welcome to my GitHub! 
 
-I bring over a decade of experience leading software development projects across diverse industries like IT services, digital banking, and investment management. I enjoy bridging technology and business value through project leadership, data analytics, and modern engineering practices. 
+I bring over a decade of experience leading software development projects across diverse industries: cloud services, digital banking, and investment management, and enterprise data management in healthcare. I enjoy bridging technology and business value through team leadership, and modern engineering practices. 
 
 ## 🚀 Professional Highlights
 
@@ -17,6 +17,11 @@ I bring over a decade of experience leading software development projects across
 Public repos from data engineering self-driven projects and courses.
 
 ### 🔥 Recent Projects
+- **[Evaluation Harness for RAG](https://github.com/joseph-higaki/biomedical-rag-bench):**
+  A falsifiable, evolving evaluation harness for retrieval-augmented generation over biomedical knowledge. Compares retriever strategies
+  
+- **[Synthetic Data Generator Wrapper](https://github.com/joseph-higaki/emr_synthea_generator):**  
+  Electronic Medical Records Synthetic Data Generator Wrapper for Spain.
 
 - **[Electronic Medical Records data pipeline](https://github.com/joseph-higaki/emr_data_pipeline):**  
   Electronic Medical Records Ingestion, Analytics features and Dashboard.
@@ -40,10 +45,10 @@ Public repos from data engineering self-driven projects and courses.
 
 ### 🛠 Tools & Technologies
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL, SPARQL
 - **Tools / Tech Stacks:** airflow, dbt, docker, Power BI, AWS, GCP, 
 - **Project Management:** Jira, Confluence, Miro  
-- **Certifications:** AWS Cloud Practitioner, Azure Data Fundamentals, Certified Agile Leadership I  
+- **Certifications:** Claude Certified Architect Foundations, AWS Cloud Practitioner, Azure Data Fundamentals, Certified Agile Leadership I  
 
 ## 🌱 Learning Goals
 - Deepen expertise in data engineering concepts like ELT pipelines, dimensional data modeling, cloud-native tools, near-real-time batch, and streaming.  
