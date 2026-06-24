@@ -1,7 +1,7 @@
 
 # 👨🏾‍💻 Joseph Higaki
 
-**Data Engineering | Knowledge Graph Enthusiast  **
+**Data Engineering - Knowledge Graph Enthusiast  **
 
 Welcome to my GitHub! 
 
