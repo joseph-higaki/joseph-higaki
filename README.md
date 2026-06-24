@@ -1,19 +1,19 @@
 
 # 👨🏾‍💻 Joseph Higaki
 
-**Data Engineering Enthusiast**
+**Data Engineering | Knowledge Graph Enthusiast  **
 
 Welcome to my GitHub! 
 
-I bring over a decade of experience leading software development projects across diverse industries: cloud services, digital banking, and investment management, and enterprise data management in healthcare. I enjoy bridging technology and business value through team leadership, and modern engineering practices. 
+I bring over a decade of experience leading software development projects across diverse industries: cloud services, digital banking, investment management, and enterprise data management in healthcare. I enjoy bridging technology and business value through team leadership and modern engineering practices. 
 
 ## 🚀 Professional Highlights
 
 - **Leadership:** Proven track record in managing Agile teams, from backend and data engineers to cross-functional teams, across geographies and timezones.  
-- **Technical Expertise:** Started as a .NET developer, lately I've been gathering hands-on experience in building data pipelines, and dashboards using python, docker, airflow, dbt, Spark, Power BI, and Looker Studio.
+- **Technical Expertise:** Early C# developer focused on system integrations. Built data pipelines and dashboards using python, docker, airflow, dbt, Spark, Power BI, and Looker Studio.
 - **Industry Impact:** Delivered scalable enterprise-class applications, modernized data sources, and improved process automation metrics for global organizations.  
 
-## 📊 Data Engineering Interest
+## 📊 Data Engineering
 
 Public repos from data engineering self-driven projects and courses.
 
