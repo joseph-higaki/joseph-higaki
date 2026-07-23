@@ -1,7 +1,7 @@
 # 👨🏾‍💻 Joseph Higaki
 **Knowledge Graph & Data Engineer**
 
-I build knowledge graphs and the data pipelines behind them — turning messy relational and lakehouse data into something you can actually query and reason over.
+I turn messy relational and lakehouse data into something you can actually query and extract insights from.
 
 Right now I'm working on ontology and knowledge-graph adoption at a global pharmaceutical company. My portfolio spans virtual knowledge graphs, biomedical GraphRAG, and SHACL-governed semantic pipelines. Background across regulated industries: pharma, banking, and telecom.
 
