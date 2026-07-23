@@ -1,60 +1,40 @@
-
 # 👨🏾‍💻 Joseph Higaki
+**Knowledge Graph & Data Engineer**
 
-**Data Engineering - Knowledge Graph Enthusiast**
+I build knowledge graphs and the data pipelines behind them — turning messy relational and lakehouse data into something you can actually query and reason over.
 
-Welcome to my GitHub! 
+Right now I'm working on ontology and knowledge-graph adoption at a global pharmaceutical company. My portfolio spans virtual knowledge graphs, biomedical GraphRAG, and SHACL-governed semantic pipelines. Background across regulated industries: pharma, banking, and telecom.
 
-I bring over a decade of experience leading software development projects across diverse industries: cloud services, digital banking, investment management, and enterprise data management in healthcare. I enjoy bridging technology and business value through team leadership and modern engineering practices. 
+## 🔧 What I'm building
 
-## 🚀 Professional Highlights
+Three I'd point you to first — the rest are pinned below 👇
 
-- **Leadership:** Proven track record in managing Agile teams, from backend and data engineers to cross-functional teams, across geographies and timezones.  
-- **Technical Expertise:** Early C# developer focused on system integrations. Built data pipelines and dashboards using python, docker, airflow, dbt, Spark, Power BI, and Looker Studio.
-- **Industry Impact:** Delivered scalable enterprise-class applications, modernized data sources, and improved process automation metrics for global organizations.  
+- **[Virtual Knowledge Graph Connectivity](https://github.com/joseph-higaki/virtual-knowledge-graph-connectivity)**
+  Ontop answers SPARQL over Trino against Postgres and Iceberg, staged in "rungs" and validated against a GraphDB ground truth.
+  *Why it matters:* exposes relational + lakehouse data as a queryable graph without copying it (OBDA) — and proves fidelity instead of assuming it.
 
-## 📊 Data Engineering
+- **[Biomedical GraphRAG Bench](https://github.com/joseph-higaki/biomedical-rag-bench)**
+  Benchmarks vector RAG against RDF GraphRAG retrievers on biomedical question sets, measuring the hop-count vs. recall tradeoff in a reproducible Docker harness.
+  *Why it matters:* answers the question a pharma AI team actually asks — when does graph retrieval beat vectors? — with numbers, not vibes.
 
-Public repos from data engineering self-driven projects and courses.
+- **[Resume Graph](https://github.com/joseph-higaki/resume-graph)**
+  My résumé as an RDF knowledge graph: SHACL-validated, published as an interactive SPARQL site, and projected into tailored CV variants per application.
+  *Why it matters:* a full semantic stack end-to-end, with a SHACL gate that makes unevidenced skill claims impossible to publish. (Yes — the PDF version of my CV falls out of this.)
 
-### 🔥 Recent Projects
-- **[Evaluation Harness for RAG](https://github.com/joseph-higaki/biomedical-rag-bench):**
-  A falsifiable, evolving evaluation harness for retrieval-augmented generation over biomedical knowledge. Compares retriever strategies
-  
-- **[Synthetic Data Generator Wrapper](https://github.com/joseph-higaki/emr_synthea_generator):**  
-  Electronic Medical Records Synthetic Data Generator Wrapper for Spain.
+## 🛠 Tools & tech
 
-- **[Electronic Medical Records data pipeline](https://github.com/joseph-higaki/emr_data_pipeline):**  
-  Electronic Medical Records Ingestion, Analytics features and Dashboard.
-  
-- **[Spotify Insights](https://github.com/joseph-higaki/spotify_insights):**  
-  Explore data insights inspired by Spotify Wrapped using Jupyter Notebook.
+- **Languages:** Python, SQL, SPARQL, Cypher
+- **Knowledge graphs & semantics:** RDF, OWL, SHACL, ontology engineering, Neo4j, GraphDB, Ontop / OBDA, metaphactory
+- **Data engineering:** Airflow, dbt, Docker, Terraform, DuckDB
+- **Warehouses & stores:** BigQuery, PostgreSQL, Apache Iceberg, Trino, Redshift, Snowflake, Cassandra
+- **Cloud:** AWS, GCP
 
-- **[Patient Conditions and Weather](https://github.com/joseph-higaki/patient_conditions_weather):**  
-  A data extraction and analysis project connecting weather patterns to patient conditions using synthetic data.
+**Certifications:** Neo4j Certified Professional · metaphacts (AI Metis Engineer, KG App Building, Visual Modeling for KG Engineers) · AWS Certified AI Practitioner · Claude Certified Architect – Foundations
 
-- **[Data Engineering Zoomcamp](https://github.com/joseph-higaki/datadata-engineering-zoomcamp):**  
-  Homework and notes from the comprehensive [DataTalks.Club](https://datatalks.club/) Data Engineering Zoomcamp.
+## 🌱 Where I'm headed
+- Deeper into knowledge-graph engineering: OBDA / virtual graphs, ontology governance, and graph-native retrieval for AI.
+- Building things that put semantic data to work in regulated, real-world domains.
 
-- **[Voice Analysis](https://github.com/joseph-higaki/voice-analysis):**  
-  Playful exploration of voice data (pitch / amplitude) inspired by a voice education course where I recorded myself and some classmates.
-  
-- **[Chrome Tab Group Remover](https://github.com/joseph-higaki/chrome-tab-group-remover):**  
-  Automates the tedious task of deleting unwanted Chrome tab groups using Python, this is me being: [lazy | engineer].
-
-
-
-### 🛠 Tools & Technologies
-
-- **Programming Languages:** Python, SQL, SPARQL
-- **Tools / Tech Stacks:** airflow, dbt, docker, Power BI, AWS, GCP, 
-- **Project Management:** Jira, Confluence, Miro  
-- **Certifications:** Claude Certified Architect Foundations, AWS Cloud Practitioner, Azure Data Fundamentals, Certified Agile Leadership I  
-
-## 🌱 Learning Goals
-- Deepen expertise in data engineering concepts like ELT pipelines, dimensional data modeling, cloud-native tools, near-real-time batch, and streaming.  
-- Continue developing impactful projects that utilize and curate data to deliver value in real-world applications.
-
-## 📫 Let's Connect!
-- **Email:** joseph.higaki@gmail.com  
-- **LinkedIn:** [linkedin.com/in/josephhigaki](https://www.linkedin.com/in/josephhigaki/) 
+## 📫 Let's connect
+- **Email:** joseph.higaki@gmail.com
+- **LinkedIn:** [linkedin.com/in/josephhigaki](https://www.linkedin.com/in/josephhigaki/)
