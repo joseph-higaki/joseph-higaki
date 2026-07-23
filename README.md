@@ -15,11 +15,11 @@ TOP 3, ORDER BY pride desc. The rest are pinned below 👇
 
 - **[Biomedical GraphRAG Bench](https://github.com/joseph-higaki/biomedical-rag-bench)**
   Benchmarks vector RAG against RDF GraphRAG retrievers on biomedical question sets, measuring the hop-count vs. recall tradeoff in a reproducible Docker harness.
-  *Why it matters:* answers the question a pharma AI team actually asks — when does graph retrieval beat vectors? — with numbers, not vibes.
+  *Why it matters:* answers the question a pharma AI team actually asks: when does graph retrieval beat vectors? With numbers, not vibes.
 
 - **[Resume Graph](https://github.com/joseph-higaki/resume-graph)**
   My résumé as an RDF knowledge graph: SHACL-validated, published as an interactive SPARQL site, and projected into tailored CV variants per application.
-  *Why it matters:* a full semantic stack end-to-end, with a SHACL gate that makes unevidenced skill claims impossible to publish. (Yes — the PDF version of my CV falls out of this.)
+  *Why it matters:* a full semantic stack end-to-end, with a SHACL gate that makes unevidenced skill claims impossible to publish. (The PDF version of my CV falls out of this.)
 
 ## 🛠 Tools & tech
 
