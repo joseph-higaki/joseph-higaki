@@ -11,7 +11,7 @@ TOP 3, ORDER BY pride desc. The rest are pinned below 👇
 
 - **[Virtual Knowledge Graph Connectivity](https://github.com/joseph-higaki/virtual-knowledge-graph-connectivity)**
   Ontop answers SPARQL over Trino against Postgres and Iceberg, staged in "rungs" and validated against a GraphDB ground truth.
-  *Why it matters:* exposes relational + lakehouse data as a queryable graph without copying it (OBDA) — and proves fidelity instead of assuming it.
+  *Why it matters:* exposes relational + lakehouse data as a queryable graph without copying it (OBDA) and proves fidelity instead of assuming it.
 
 - **[Biomedical GraphRAG Bench](https://github.com/joseph-higaki/biomedical-rag-bench)**
   Benchmarks vector RAG against RDF GraphRAG retrievers on biomedical question sets, measuring the hop-count vs. recall tradeoff in a reproducible Docker harness.
