@@ -7,7 +7,7 @@ Right now I'm working on ontology and knowledge-graph adoption at a global pharm
 
 ## 🔧 What I'm building
 
-Three I'd point you to first — the rest are pinned below 👇
+TOP 3, ORDER BY pride desc. The rest are pinned below 👇
 
 - **[Virtual Knowledge Graph Connectivity](https://github.com/joseph-higaki/virtual-knowledge-graph-connectivity)**
   Ontop answers SPARQL over Trino against Postgres and Iceberg, staged in "rungs" and validated against a GraphDB ground truth.
